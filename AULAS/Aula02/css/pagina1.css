@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap');
+h1{text-align: center;
+    font-family: "Playfair Display", serif;
+}
+    img
+{
+    width: 600px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+h2{
+text-align: center;}
+
+button
+{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+    height: 40px;
+    width: 110px;
+    border-radius: 10px;
+    cursor: pointer;
+    background: linear-gradient(#272343,#e3f6f5 ); 
+    transition: .5s ease-in-out;
+}
+button:hover
+{
+    background-color: rgb(19, 255, 255);
+}
+
+button a
+{
+    color: aliceblue;
+}
