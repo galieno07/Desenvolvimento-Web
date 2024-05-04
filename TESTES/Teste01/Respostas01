@@ -1,0 +1,27 @@
+1 - 
+Div : Agrupa elementos.
+Style : Serve para estilizar a parte visual de seu site.
+Body : E onde e colocado os elementos para a estrutura do codigo.
+Title : Nomear o site.
+Link : Possibilita trabalhar entre as pastas utilizando o ../ etc.
+
+
+2 - O HTML possibilida você a fazer a estrutura de seu site,
+    já o CSS pode se utilizar para estilizar "Style" cuidando da parte visual de seu site. 
+
+3 - Style.
+
+4 - font-family.
+
+5 - D.
+
+6 - A duas formas ,uma e utilizando o proprio link da imagem o link sendo do "google",
+    a outra formar a criando uma pasta para armazenar a imagem "img" e depois invocala na sua estrutura do HTML.
+
+
+7 - A CLASS pode ser utiliazada para alterar todos os elemento que esteja dentro de sua estrutura,
+    já o ID e utilizado para selecionar um unico elemento dentro da sua estrutura.
+
+
+8 - Ao invocar a CLASS ou o ID no arquivo CSS e possivel estilizar
+     os elementos que a CLASS ou ID foram utilizadas no selecionamento.
