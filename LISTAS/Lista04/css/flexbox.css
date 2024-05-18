@@ -1,0 +1,25 @@
+.conteudo-principal{
+  width: 100%; 
+  height: 100%;
+  background: rgb(196, 18, 18);
+  display: flex;
+}
+
+.forma1{
+  width: 50%;
+  height: 100%;
+  background: rgb(233, 214, 214);
+  display: flex;
+  
+}
+
+.forma2{
+  width: 50%;
+  height: 50%;
+  background: aqua;
+
+}
+
+
+
+
